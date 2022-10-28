@@ -1,0 +1,23 @@
+#SOLICITANTES
+#numPass—--nombre-------paisOrigen----ciudadNac-----------fechaNac-------email----------------------infoad-----------
+111 	*Grettel Lahmann *USA     	*Chicago	*2000-12-30 *gth@yahoo.es 		*Bachillerato
+222 	*Yves Davoine	*Francia  	*Grenoble 	*1995-12-30 *davoine@gmail.com		
+333 	*Gabriel Salas 	*Chile    	*Viña     	*1960-05-21 *gsal@hotmail.com		
+444 	*Keiko Tamura 	*Japón    	*Tokio    	*1975-08-13 *keiko@gmail.com		
+555 	*John Kidman    *Austria  	*Viena    	*2008-08-13 *kidm@yahoo.com		*Primaria
+666	*Luis Vasquez	*Colombia	*Bogotá		*1960-03-25 *herna@gmail.com
+777	*Juan Pablo	*Italia	 	*Roma		*1986-12-13 *juanp@gmail.com	
+888	*Luz Mariana	*Rusia   	*Stanlingrad	*1988-10-01 *luzmar@yahoo.com
+999	*Alex Barreto	*España	 	*Lisboa		*1982-03-19 *alexbarre@taringa.com
+1110	*Juan Sebas	*Inglate 	*Manchester	*2005-11-13 *juanse@gmail.com		*Bachillerato
+1221	*Sebastian 	*Colombia	*Medellin	*2017-01-29 *sebastian@gmail.com	*Luisa Maria
+1022	*Lina Paola	*USA	 	*Texas		*1999-04-15 *Alejam@gmail.com		
+1332	*Santiago Paez	*Ecuador 	*Quito		*2016-09-22 *SantiagoP@outlook.com	*Juan Sebas
+1443	*Maria Aleja	*Brasil	 	*Brasilia	*1997-09-28 *linapaola@gmail.com
+1554	*Edwin Neira	*Mexico  	*Guadaralaja	*1949-09-09 *Edwineira@gmail.com
+1665	*Andres Suarez	*Inglaterra 	*Monaco		*1989-12-24 *suarezand@gmail.com
+1776	*Luisa Maria	*España		*Madrid		*2009-11-13 *Luisamr@gmail.com		*Primaria
+1887	*Lorena Lopez	*USA 	 	*LA		*1989-01-28 *edithbarreto@gmail.com	
+1998	*Hideo Kojima	*Japon		*Tokio		*2010-03-09 *kojimaprod@gmail.com	*Primaria
+2109	*Stainer Resnov	*Rusia		*Berlin		*1936-04-30 *ReznovStain@hotmail.com
+#FIN

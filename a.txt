@@ -1,0 +1,8 @@
+#OTROS SOLICITANTES
+#numPasaporte
+555
+1221
+1776
+999
+888
+#FIN

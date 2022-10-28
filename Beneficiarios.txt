@@ -1,0 +1,11 @@
+--Lista de beneficiarios--
+#numPass--------nombre--------valorTotal(dólar)
+2109  Stainer Resnov		24.5
+2109  Stainer Resnov		24.5
+2109  Stainer Resnov		24.5
+2109  Stainer Resnov		24.5
+2109  Stainer Resnov		24.5
+2109  Stainer Resnov		24.5
+El valor total en pesos que se dejó de recaudar por visas de beneficiados:
+147.0      Cambio oficial:dólar 441000.0
+dólar 147.0
